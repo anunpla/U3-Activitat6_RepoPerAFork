@@ -44,7 +44,7 @@ Empar ha afegit el mètode que desitja: "Bon Nadal i Feliç Any Nou.  Pau i Salu
 #### AlumneFila1 PC3:
 
 
-#### AlumneFila1 PC4:
+#### AlumneFila1 PC4:Soc Amanda, he escrit una línea en el Readme.md
 
 
 #### AlumneFila1 PC5:
