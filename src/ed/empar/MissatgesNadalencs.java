@@ -115,7 +115,8 @@ public class MissatgesNadalencs {
 	}
 
 	private static void AlumneFila1PC4() {
-
+	System.out.printnl("Hola, soc Amanda");
+	System.out.println("Que paseu un Bon Nadal i un Feliç Any Nou");
 	}
 
 	private static void AlumneFila1PC5() {
